@@ -1,0 +1,2 @@
+export const WALLET_SEED = "sEdTJWSPbFAoGyN2iDTLwjMRLQTWjfL";
+export const DESTINATION_WALLET_SEED = "sEdT4LFBDcwikS6MGkYvEJVGvFfP5eQ";
